@@ -1,10 +1,10 @@
 {
-  "name": "Video Uygulaması",
-  "short_name": "VideoApp",
-  "start_url": "index.html",
+  "name": "turkbot-sponsorluk",
+  "short_name": "turkbot",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#1c1c1c",
-  "theme_color": "#ff416c",
+  "background_color": "#ffffff",
+  "theme_color": "#0078D7",
   "icons": [
     {
       "src": "icon-192.png",
